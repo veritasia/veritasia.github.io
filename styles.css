@@ -5,3 +5,8 @@ img {
 body {
     background-color: rgb(69, 125, 133);
 }
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
